@@ -1,0 +1,8 @@
+Chetan Arora,Mehrdad Sabetzadeh,Shiva Nejati,Lionel Briand;An active learning approach for improving the accuracy of automated domain model extraction;Transactions on Software Engineering Methodology;ACM;28;1;14;34;2019
+Fabrizio Bert,Marika Giacometti,Maria Rosaria,Roberta Siliquini;Smartphones and health promotion: A review of the evidence;Journal of Medical Systems;Springer;38;1;99;109;2013
+Collin Baker,Charles Fillmore,John Lowe;The Berkeley Framenet project;International Conference on Computational Linguistics;IEEE;Washington;86;90;1998
+David Blei,Andrew Ng,Michael Jordan;Latent Dirichlet Allocation;Journal Machine Learning Research;Elsevier;3;1;993;1022;2003
+Nishant Jha,Anas Mahmoud;Using frame semantics for classifying and summarizing application store reviews;Empirical Software Engineering;IEEE;23;6;3734;3767;2018
+Anas Mahmoud,Grant Williams;Detecting, classifying, and tracing non-functional software requirements;Requirements Engineering Journal;ACM;21;3;357;381;2016
+William Martin,Mark Harman,Yue Jia,Federica Sarro,Yuanyuan Zhang;The app sampling problem for app store mining;Mining Software Repositories;Wiley;Paris;123;133;2015
+Grant Williams,Anas Mahmoud;Mining Twitter feeds for software user requirements;Requirements Engineering;IEEE;Lispon;1;10;2017

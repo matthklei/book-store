@@ -1,0 +1,8 @@
+[1] C. Arora, L. Briand, S. Nejati, and M. Sabetzadeh, "An active learning approach for improving the accuracy of automated domain model extraction", Transactions on Software Engineering Methodology (TSEM), ACM, 28(1): 14 - 34, 2019
+[2] C. Baker, C. Fillmore, and J. Lowe, "The Berkeley Framenet project", International Conference on Computational Linguistics (ICCL), IEEE, Washington, 1998, pp: 86 - 90
+[3] F. Bert, M. Giacometti, M. Rosaria, and R. Siliquini, "Smartphones and health promotion: A review of the evidence", Journal of Medical Systems (JMS), SPRINGER, 38(1): 99 - 109, 2013
+[4] D. Blei, M. Jordan, and A. Ng, "Latent Dirichlet Allocation", Journal Machine Learning Research (JMLR), ELSEVIER, 3(1): 993 - 1022, 2003
+[5] M. Harman, Y. Jia, W. Martin, F. Sarro, and Y. Zhang, "The app sampling problem for app store mining", Mining Software Repositories (MSR), WILEY, Paris, 2015, pp: 123 - 133
+[6] N. Jha and A. Mahmoud, "Using frame semantics for classifying and summarizing application store reviews", Empirical Software Engineering (ESE), IEEE, 23(6): 3734 - 3767, 2018
+[7] A. Mahmoud and G. Williams, "Mining Twitter feeds for software user requirements", Requirements Engineering (RE), IEEE, Lispon, 2017, pp: 1 - 10
+[8] A. Mahmoud and G. Williams, "Detecting, classifying, and tracing non-functional software requirements", Requirements Engineering Journal (REJ), ACM, 21(3): 357 - 381, 2016
